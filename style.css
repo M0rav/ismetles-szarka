@@ -5,6 +5,31 @@ body{
 p{
     color: darkblue;
 }
-a{
+h2{
     color: crimson;
 }
+
+#first{
+    margin: 0, auto;
+    width: 500px;
+    border: none;
+    
+
+}
+td{
+    margin: 6px;
+}
+tr {
+    padding: 6px;
+}
+
+#kep    {width: 800px; height: 200px;  
+    margin:0 auto;
+    display: block;}
+
+    a{
+        color: crimson;
+    }
+#kap{
+    margin:0 auto;
+    display: block;}
